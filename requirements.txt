@@ -1,0 +1,9 @@
+# CSC111 Winter 2026: Python libraries we'll be using in Project 2.
+
+# Data generation
+muutils
+maze-dataset #(comes with the files in this repository)
+
+# Graphics and data visualization
+pygame
+
